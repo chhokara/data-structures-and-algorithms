@@ -1,3 +1,4 @@
+// Multiple pointers problem
 function averagePairs(arr, avg) {
     let start = 0;
     let end = arr.length - 1;

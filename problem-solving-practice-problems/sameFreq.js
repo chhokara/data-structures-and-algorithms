@@ -1,6 +1,7 @@
+// Frequency counter problem
+
 // Problem: Write a function called sameFrequency. Given two positive integers,
 // find out if the two numbers have the same frequency of digits 
-
 function sameFrequency(num1, num2) {
     let numStr1 = num1.toString();
     let numStr2 = num2.toString();
