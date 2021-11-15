@@ -1,4 +1,7 @@
 // Multiple pointers problem
+
+// Problem: Given a sorted array of integers and a target average, determine if there is a pair
+// of values in the array where the average of the pairs equals the target average
 function averagePairs(arr, avg) {
     let start = 0;
     let end = arr.length - 1;

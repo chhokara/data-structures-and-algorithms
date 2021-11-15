@@ -1,4 +1,7 @@
 // Sliding window problem
+
+// Problem: Write a function that finds the maximum sum of a subarray with the length of the number
+// passed to the function
 function maxSubArraySum(arr, num) {
     let maxSum = 0;
     let tempSum = 0;
